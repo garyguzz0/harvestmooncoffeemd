@@ -9,7 +9,7 @@ body {
 /* Styles for the new vertical navigation bar */
 .sidebar {
     width: 200px; /* Fixed width for the sidebar */
-    background-color: #d3c015; /* Dark background for the sidebar content */
+    background-color: #c99014; /* Dark background for the sidebar content */
     padding-top: 20px;
     box-shadow: 2px 0 5px rgba(0,0,0,0.5);
 }
@@ -29,7 +29,7 @@ body {
 }
 
 .sidebar li a:hover {
-    background-color: #0c87c0; /* Highlight link on hover */
+    background-color: #498baa; /* Highlight link on hover */
 }
 
 /* Styles for the main content area (Harvest Moon text) */
